@@ -1,0 +1,1 @@
+class NoPuedenCrearGremioPorMiembrosinsuficientesException inherits Exception (message = "No PuedenCrear Gremio Por Miembros insuficientes ")
